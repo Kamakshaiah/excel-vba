@@ -1,0 +1,4 @@
+http://www.excel-easy.com/vba/function-sub.html
+http://www.excel-easy.com/vba/examples/run-code-from-a-module.html
+http://www.excel-easy.com/vba/loop.html#
+http://www.excel-easy.com/vba/examples/loop-through-entire-column.html
